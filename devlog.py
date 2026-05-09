@@ -22,7 +22,7 @@ def delete_entry(index):
         print(f"🗑️ Deleted entry: {removed}")
 
 def main():
-    print("Welcome to DevLog! 📓")
+    print("Welcome to DevLog App! 🚀 Version 2.0")
     print("Commands: add / list / delete / quit")
 
     while True:
