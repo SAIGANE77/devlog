@@ -9,3 +9,4 @@ A command-line app to track your daily developer progress.
 
 ## Author
 SAIGANE77"## Search feature coming soon" 
+"## Bug fixes in v1.1" 
