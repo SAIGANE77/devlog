@@ -8,5 +8,10 @@ A command-line app to track your daily developer progress.
 - Delete entries
 
 ## Author
-SAIGANE77"## Search feature coming soon" 
-"## Bug fixes in v1.1" 
+SAIGANE77
+## Search feature coming soon
+## Bug fixes in v1.1
+## Search feature added
+## Search supports keywords"## Draft line 1" 
+"## Draft line 2" 
+"## Draft line 3" 
