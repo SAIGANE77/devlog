@@ -8,4 +8,4 @@ A command-line app to track your daily developer progress.
 - Delete entries
 
 ## Author
-SAIGANE77"## This is a mistake!" 
+SAIGANE77
