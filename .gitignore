@@ -1,12 +1,41 @@
-# Python
+# Python files
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
-# Environment
-.env
+# Virtual Environment
 venv/
+env/
+.env
 
 # OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+
+# Log files
+*.log
+logs/
+
+# Test files
+test_*.py
+*_test.py
+
+# Ignore specific file
+secret.txt
+
+# Ignore entire folder
+temp/
+
+# BUT include this specific file inside ignored folder
+!temp/important.txt
+
+# Ignore all .txt files EXCEPT README.txt
+*.txt
+!README.txt
